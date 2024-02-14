@@ -1,0 +1,992 @@
+@media only screen and (max-width:1000px) {
+    .hello {
+        align-items: center;
+        z-index: -100;
+    }
+
+
+
+    .hello li {
+        margin-right: 50px;
+        width: 40px;
+        align-items: center;
+    }
+
+    .last {
+        position: relative;
+        left: 120px;
+    }
+
+
+}
+
+@media only screen and (min-width: 1000px) {
+    .hello {
+        position: relative;
+        left: 300px;
+        background-color: rgb(255, 255, 255);
+        padding-left: 20px;
+        border-radius: 30px;
+        width: 530px;
+        align-items: center;
+    }
+
+    .hello li {
+        margin-right: 52px;
+        width: 40px;
+        align-items: center;
+    }
+}
+
+.last {
+    background-color: #ffff;
+    border-radius: 50px;
+    position: relative;
+    right: 100px;
+    border: 1px solid rgb(65, 58, 58);
+    width: 100px;
+    height: 40px;
+    text-align: center;
+}
+
+/*////////sec1////////////////////////*/
+
+
+
+.sec1 {
+    width: 95%;
+    height: 617px;
+    position: relative;
+    top: 56px;
+    left: 30px;
+    border-radius: 15px;
+    background: linear-gradient(90deg, #C1DEE8 0%, #FBD9B9 100%);
+
+}
+
+.hero1 {
+    width: 50%;
+    display: flex;
+
+}
+
+.hero2 {
+    width: 50%;
+    display: flex;
+}
+
+.hero2>img {
+    width: 785px;
+    height: 667px;
+    position: absolute;
+    top: 16px;
+    left: 659px;
+
+}
+
+.hero1>p {
+    width: 176px;
+    height: 19px;
+    position: absolute;
+    top: 247px;
+    left: 76px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.hero1>h1 {
+    width: 479px;
+    height: 160px;
+    position: absolute;
+    top: 281px;
+    left: 76px;
+    font-family: Poppins;
+    font-size: 67px;
+    font-weight: 600;
+    line-height: 80px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.hero1>span {
+    width: 435px;
+    height: 48px;
+    position: absolute;
+    top: 465px;
+    left: 76px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.hero1>input {
+    width: 438px;
+    height: 60px;
+    top: 537px;
+    left: 76px;
+    border-radius: 40px;
+    position: absolute;
+
+}
+
+.hero1>button {
+    width: 147px;
+    ;
+    height: 60px;
+    position: absolute;
+    top: 537px;
+    left: 367px;
+    border-radius: 40px;
+    background-color: black;
+    color: azure;
+
+}
+
+
+/*////////////////////////////////////////////////SEC2////////////////////////////////////*/
+
+.sec2 {
+    width: 1357px;
+    height: 525px;
+    position: relative;
+    top: 170px;
+    left: 76px;
+}
+
+.sec-1st>img {
+    margin-bottom: 30px;
+}
+
+.sec-2nd>img {
+    margin-bottom: 30px;
+}
+
+.sec-3rd>img {
+    margin-bottom: 30px;
+}
+
+.sec2-1st>h3 {
+    width: 788px;
+    height: 60px;
+    position: absolute;
+    top: 46px;
+    left: 386px;
+    font-family: Poppins;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+
+.sec2-1st>p {
+    width: 218px;
+    height: 19px;
+    position: absolute;
+    top: 21px;
+    left: 600px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.sec2-2nd {
+    width: 100%;
+    display: flex;
+}
+
+.sec-1st {
+    width: 432px;
+    position: absolute;
+    top: 200px;
+    left: 150px;
+}
+
+.sec-2nd {
+    width: 432px;
+    position: absolute;
+    top: 200px;
+    left: 550px;
+}
+
+.sec-3rd {
+    width: 352px;
+    position: absolute;
+    top: 200px;
+    left: 1000px;
+
+}
+
+.sec-1st>p {
+    width: 279px;
+    height: 72px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.sec-2nd>h5 {
+    width: 254px;
+    height: 34px;
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+
+.sec-2nd>p {
+    width: 279px;
+    height: 72px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.sec-2nd>h5 {
+    width: 254px;
+    height: 34px;
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+
+.sec-3rd>h5 {
+    width: 254px;
+    height: 34px;
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+
+.sec-3rd>p {
+    width: 279px;
+    height: 72px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.sec-3rd>h5 {
+    width: 254px;
+    height: 34px;
+    top: 1118px;
+    left: 66px;
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+
+
+
+/*/////////////////////////////////////////////////////sec3////////////////////////////////////////*/
+
+
+.sec3 {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    top: 130px;
+}
+
+.sec3>p {
+    width: 292px;
+    height: 19px;
+    position: absolute;
+    top: 10px;
+    left: 172px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.sec3>h4 {
+    width: 495px;
+    height: 60px;
+    position: absolute;
+    top: 33px;
+    left: 165px;
+    font-family: Poppins;
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+
+
+.cards {
+    position: absolute;
+    top: 200px;
+    display: flex;
+    margin-left: 20px;
+}
+
+
+
+/*/////////////////////////////////////////////////////SEC4///////////////////////////////////////*/
+
+.sec4 {
+    width: 100%;
+    height: 100vh;
+    /* background-color: blanchedalmond; */
+    position: relative;
+    top: 100px;
+}
+
+.sec4>h1 {
+    width: 685px;
+    height: 120px;
+    position: absolute;
+    left: 357px;
+    font-family: Poppins;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.sec4-main2 img {
+    position: absolute;
+    top: 150px;
+}
+
+.sec4-hero {
+    width: 100%;
+    height: 80vh;
+    position: relative;
+    top: 150px;
+    right: 50px;
+    display: flex;
+}
+
+.sec4-main1>h1 {
+    width: 497px;
+    height: 46px;
+    position: absolute;
+    top: 107px;
+    left: 97px;
+    font-family: Poppins;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 46px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+
+.sec4-main1 {
+    width: 60%;
+    position: relative;
+    left: 100px;
+    top: 50px;
+
+}
+
+.sec4-main1>p {
+    width: 374px;
+    height: 120px;
+    position: absolute;
+    top: 170px;
+    left: 98px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.sec4-main1 .bt1 {
+    width: 120px;
+    height: 40px;
+    position: absolute;
+    top: 332px;
+    left: 98px;
+    padding: 15px, 35px, 15px, 35px;
+    border-radius: 40px;
+    gap: 10px;
+    color: aliceblue;
+    background-color: black;
+}
+.sec4-main1 .bt1:hover{
+    background-color: white;
+    transition: 1s all ease-in;
+    color: black;
+}
+.sec4-main1 .bt2:hover{
+    background-color: rgb(0, 0, 0);
+    transition: 1s all ease-in;
+    color: rgb(255, 255, 255);
+}
+
+.sec4-main1 .bt2 {
+    width: 120px;
+    height: 40px;
+    position: absolute;
+    top: 332px;
+    left: 258px;
+    padding: 15px, 35px, 15px, 35px;
+    border-radius: 40px;
+    gap: 10px;
+}
+
+
+.containes {
+    padding: 15px 16px;
+}
+
+.containers>p {
+    width: 329px;
+    height: 48px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+
+.plus {
+    width: 100%;
+    position: absolute;
+    top: 450px;
+    left: 50px;
+}
+
+.plus .plus12 {
+    width: 60px;
+    height: 45px;
+    position: absolute;
+    top: px;
+    left: 374px;
+}
+
+.plus .plus14 {
+    width: 60px;
+    height: 45px;
+    position: absolute;
+    top: px;
+    left: 50px;
+}
+
+.plus .plus10 {
+    width: 60px;
+    height: 45px;
+    position: absolute;
+    top: px;
+    left: 230px;
+}
+
+
+/*////////////////////////////////////////    SEC5     ///////////////////////*/
+
+.sec5 {
+
+    background: linear-gradient(90deg, #C1DEE8 0%, #FBD9B9 100%);
+    position: relative;
+    top: 270px;
+    left: 5%;
+    width: 1380px;
+    height: 457px;
+    border-radius: 15px;
+    display: flex;
+}
+
+.sec5-main1 {
+    width: 60%;
+}
+
+.sec5-main1>h1 {
+    width: 642px;
+    height: 60px;
+    position: absolute;
+    top: 100px;
+    left: 73px;
+    font-family: Poppins;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.sec5-main1>p {
+    width: 426px;
+    height: 96px;
+    position: absolute;
+    top: 183px;
+    left: 123px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.sec5-main1>input {
+    width: 469px;
+    height: 60px;
+    position: absolute;
+    top: 324px;
+    left: 123px;
+    border-radius: 40px;
+
+}
+
+.sec5-main1>button {
+    width: 147px;
+    height: 60px;
+    position: absolute;
+    top: 324px;
+    left: 444px;
+    border-radius: 40px;
+    background-color: black;
+    color: white;
+}
+
+.sec5-main2>img {
+    width: 606px;
+    height: 557px;
+}
+
+@media screen and (max-width: 900px) {
+    .last {
+        display: none;
+    }
+
+    .sec1 {
+        width: 95%;
+        height: 940px;
+        position: relative;
+        top: 56px;
+        left: 10px;
+        border-radius: 15px;
+        background: linear-gradient(90deg, #C1DEE8 0%, #FBD9B9 100%);
+        flex-direction: column-reverse;
+    }
+
+    .hero1 {
+        width: 45%;
+        display: flex;
+
+    }
+
+    .hero2 {
+        width: 40%;
+        display: flex;
+    }
+
+    .hero2>img {
+        max-width: 350px;
+        height: 337px;
+        position: absolute;
+        top: 606px;
+        left: 9px;
+
+    }
+
+    .hero1>p {
+        width: 256px;
+        height: 19px;
+        position: absolute;
+        top: 147px;
+        left: 56px;
+        font-family: Poppins;
+        font-size: 25px;
+        font-weight: 400;
+        line-height: 19px;
+        letter-spacing: 0em;
+        text-align: left;
+    }
+
+    .hero1>h1 {
+        width: 309px;
+        height: 160px;
+        position: absolute;
+        top: 181px;
+        left: 36px;
+        font-family: Poppins;
+        font-size: 67px;
+        font-weight: 600;
+        line-height: 80px;
+        letter-spacing: 0em;
+        text-align: left;
+    }
+
+    .hero1>span {
+        width: 305px;
+        height: 48px;
+        position: absolute;
+        top: 465px;
+        left: 36px;
+        font-family: Poppins;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: left;
+    }
+
+    .hero1>input {
+        width: 308px;
+        height: 60px;
+        top: 537px;
+        left: 26px;
+        border-radius: 40px;
+        position: absolute;
+
+    }
+
+    .hero1>button {
+        width: 97px;
+        height: 60px;
+        position: absolute;
+        top: 537px;
+        left: 237px;
+        border-radius: 40px;
+        background-color: black;
+        color: azure;
+
+
+    }
+
+    .sec2 {
+        width: 80%;
+        height: 1200px;
+        position: relative;
+        top: 170px;
+        left: 76px;
+    }
+
+    .sec2-1st>h3 {
+        width: 288px;
+        height: 60px;
+        position: absolute;
+        top: 46px;
+        left: -30px;
+        font-size: 35px;
+
+
+
+    }
+
+    .sec2-1st>p {
+        width: 218px;
+        height: 19px;
+        position: absolute;
+        top: 21px;
+        left: -20px;
+        font-size: 16px;
+
+    }
+
+    .sec-1st {
+        width: 300px;
+        position: absolute;
+        top: 200px;
+        left: 0px;
+
+    }
+
+    .sec-2nd {
+        width: 300px;
+        position: absolute;
+        top: 500px;
+        left: 0px;
+
+    }
+
+    .sec-3rd {
+        width: 300px;
+        position: absolute;
+        top: 800px;
+        left: 0px;
+
+    }
+
+    .sec3 {
+        width: 100%;
+        height: 200vh;
+        position: relative;
+        top: 130px;
+    }
+
+    .cards {
+        position: relative;
+        top: 150px;
+        display: flex;
+        margin-left: 20px;
+        flex-direction: column-reverse;
+        width: 95%;
+
+    }
+
+    .cardm {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        transition: 0.3s;
+        width: 90%;
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+
+    .cardm img {
+        width: 100%;
+    }
+
+    .cardm:hover {
+        box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    }
+
+    .containers {
+        width: 100%;
+    }
+
+    .containers>p {
+        width: 329px;
+        height: 48px;
+        font-family: Poppins;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: left;
+    }
+
+    .sec3>p {
+        width: 192px;
+        height: 19px;
+        position: absolute;
+        top: 10px;
+        left: 112px;
+        font-size: 19px;
+
+    }
+
+    .sec3>h4 {
+        width: 295px;
+        height: 60px;
+        position: absolute;
+        top: 23px;
+        left: 61px;
+        font-size: 34px;
+    }
+
+
+    .sec4 {
+        width: 100%;
+        height: 10vh;
+        position: relative;
+        top: -250px;
+    }
+
+    .sec4>h1 {
+        width: 280px;
+        height: 120px;
+        position: absolute;
+        top: 20px;
+        left: 60px;
+        font-family: Poppins;
+        font-size: 25px;
+        font-weight: 600;
+        line-height: 40px;
+        letter-spacing: 0em;
+        text-align: center;
+    }
+
+    .sec4-main2 img {
+        width: 360px;
+        height: 250px;
+        position: absolute;
+        left: 60px;
+
+
+    }
+
+    .sec4-hero {
+        width: 100%;
+        height: 100vh;
+        position: relative;
+        top: 0px;
+        flex-direction: column-reverse;
+    }
+
+
+    .sec4-main1 {
+        width: 60%;
+        position: absolute;
+        left: -10px;
+        top: 350px;
+
+    }
+
+    .sec4-main1>h1 {
+        width: 297px;
+        height: 46px;
+        font-size: 25px;
+
+    }
+
+    .sec4-main1>p {
+        width: 300px;
+        height: 120px;
+
+    }
+
+
+    .sec4-main1 .bt2 {
+
+        position: absolute;
+        top: 332px;
+        left: 238px;
+
+    }
+
+    .plus {
+        width: 100%;
+        position: absolute;
+        top: 400px;
+        left: 50px;
+    }
+
+    .plus .plus12 {
+        width: 50px;
+        height: 45px;
+        position: absolute;
+        top: px;
+        left: 284px;
+    }
+
+    .plus .plus14 {
+        width: 50px;
+        height: 45px;
+        position: absolute;
+        top: px;
+        left: 50px;
+    }
+
+    .plus .plus10 {
+        width: 50px;
+        height: 45px;
+        position: absolute;
+        top: px;
+        left: 160px;
+    }
+
+
+    .sec5 {
+
+        background: linear-gradient(90deg, #C1DEE8 0%, #FBD9B9 100%);
+        position: relative;
+        top: 550px;
+        left: 0px;
+        width: 100%;
+        height: 90vh;
+        flex-direction: column-reverse;
+        border-radius: 15px;
+    }
+
+    .sec5-main1 {
+        position: absolute;
+        left: -100px;
+        top: -50px;
+    }
+
+    .sec5-main1>h1 {
+        width: 350px;
+        height: 60px;
+        position: absolute;
+        top: 100px;
+        left: 90px;
+        font-size: 26px;
+
+    }
+
+    .sec5-main1>p {
+        width: 300px;
+        height: 96px;
+        position: absolute;
+        top: 183px;
+        left: 123px;
+
+
+    }
+
+    .sec5-main1>input {
+        width: 300px;
+        height: 40px;
+        position: absolute;
+        top: 324px;
+        left: 113px;
+
+    }
+
+    .sec5-main1>button {
+        width: 107px;
+        height: 40px;
+        position: absolute;
+        top: 324px;
+        left: 310px;
+        border-radius: 40px;
+        background-color: black;
+        color: white;
+    }
+
+    .sec5-main2>img {
+        position: relative;
+        bottom: 0px;
+        width: 360px;
+        height: 407px;
+    }
+}
